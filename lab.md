@@ -1,7 +1,7 @@
 ## Ханов Дмитрий
 
-*C#
-*Pascal 
+* C#
+* Pascal 
 
 [портфолио](https://khanovdmitrii.github.io/)
 
